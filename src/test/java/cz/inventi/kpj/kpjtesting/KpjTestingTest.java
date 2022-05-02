@@ -27,7 +27,7 @@ public class KpjTestingTest {
 
   }
 
-  void testPrintEcho() {
+  void testPrintHelloWorld() {
     // no given
     // when
     kpjTesting.printHelloWorld();
@@ -37,7 +37,7 @@ public class KpjTestingTest {
 
   }
 
-  void testPrintHelloWorld() {
+  void testPrintEcho() {
     // no given
     // when
     String result = kpjTesting.printEcho("Print ECHO");

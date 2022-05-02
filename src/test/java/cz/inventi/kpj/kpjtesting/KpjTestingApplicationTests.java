@@ -25,7 +25,7 @@ class KpjTestingApplicationTests {
 
   void testHelloWorld() {
     // given
-    // Setum mock
+    // Setup mock
 
     // when
     kpjTesting.printHelloWorld();
